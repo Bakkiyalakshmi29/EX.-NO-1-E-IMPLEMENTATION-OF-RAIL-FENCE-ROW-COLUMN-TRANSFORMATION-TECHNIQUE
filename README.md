@@ -1,4 +1,4 @@
-# EX.NO : 2(A) RAIL FENCE CIPHER
+# EX.NO:2(B) COLUMN TRANSFORMATION CIPHER
 
 ## AIM:
   To write a C program to implement the rail fence transposition technique.
